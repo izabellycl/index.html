@@ -31,5 +31,16 @@ body {
     color: var(--verde);
 }
 .botao{
-    font-family:"" ;
+    font-family:"chakra Petch" , sans-serif ;
+    background-color: var(--botao-inativo);
+    color:var(--verde);
+    display: flex;
+    justify-content:center;
+    padding 
+        font-sizl
+    aling-itens
+    wodth:
+} 
+
+
 }
