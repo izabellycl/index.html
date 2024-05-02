@@ -87,8 +87,9 @@ body {
     text-transform: uppercase;
 }
 .contador{
-font-size:20px
-text-align:center;
+display:flex;
+justify-content:center;
+flex-wrap:centerç;
 }
 @media screen and (min-width: 768px) {
   .botoes {
